@@ -1,3 +1,4 @@
+C program to find number of elements in pointers using calloc function:
 #include<stdio.h>
 #include<stdlib.h>
 void main()
